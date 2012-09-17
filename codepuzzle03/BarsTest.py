@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 # -*- mode: python; coding: utf-8-unix -*- 
 
+# http://cp1.nintendo.co.jp/code/moon/BarsTest.py
 from second_code import Bars
 import unittest
 
